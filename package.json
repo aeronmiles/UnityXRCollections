@@ -1,0 +1,14 @@
+{
+  "name": "com.am.unity.xr.collections",
+  "version": "1.0.1",
+  "displayName": "AM Unity XR Collections",
+  "description": "Unity XR collections",
+  "unity": "2021.1",
+  "dependencies": {
+ },
+ "keywords": [
+  ],
+  "author": {
+    "name": "Aeron Miles"
+  }
+}
