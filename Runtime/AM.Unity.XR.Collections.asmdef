@@ -2,7 +2,10 @@
     "name": "am.unity.xr.collections",
     "rootNamespace": "",
     "references": [
-        "Unity.XR.Interaction.Toolkit"
+        "Unity.XR.Interaction.Toolkit",
+        "am.unity.component.system",
+        "AM.Unity.Collections",
+        "Unity.XR.CoreUtils"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
